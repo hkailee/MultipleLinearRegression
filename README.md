@@ -15,17 +15,17 @@ Template code is provided in the `workTable.ipynb` notebook file. The .csv datas
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `boston_housing/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `MultipleLinearRegression/` (that contains this README) and run one of the following commands:
 
 ```bash
-jupyter notebook boston_housing.ipynb
+jupyter notebook workTable.ipynb
 ```
 ```bash
-ipython notebook boston_housing.ipynb
+ipython notebook workTable.ipynb
 ```  
 or
 ```bash
-ipython notebook boston_housing.ipynb
+ipython notebook workTable.ipynb
 ```  
 
 This will open the Jupyter Notebook software and project file in your browser.
