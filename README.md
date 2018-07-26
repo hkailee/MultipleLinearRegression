@@ -11,7 +11,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 ### Code
 
-Template code is provided in the `workTable.ipynb` notebook file. The .csv dataset files are store in the Datasets directory. Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended for manipulation. 
+Template code is provided in the `workTable.ipynb` notebook file. The .csv dataset files are stored in the Datasets directory. Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended for manipulation. 
 
 ### Run
 
