@@ -3,7 +3,7 @@
 
 ### Install
 
-This project requires **Python 3.XX **
+This project requires **Python 3.X **
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 
