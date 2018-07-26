@@ -20,9 +20,6 @@ In a terminal or command window, navigate to the top-level project directory `Mu
 ```bash
 jupyter notebook workTable.ipynb
 ```
-```bash
-ipython notebook workTable.ipynb
-```  
 or
 ```bash
 ipython notebook workTable.ipynb
