@@ -29,4 +29,4 @@ This will open the Jupyter Notebook software and project file in your browser.
 
 ### Data
 
-The Singapore hospitalization dataset is a dummy datasets created by Holmusk for non-commercial but academic use. They do not represent the truth.
+The Singapore hospitalization dataset is created/contributed by H*lm*sk for non-commercial but academic use. They may not represent the truth.
